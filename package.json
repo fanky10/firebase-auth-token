@@ -1,0 +1,29 @@
+{
+  "name": "io.github.fanky10.fatc",
+  "version": "1.0.0",
+  "description": "Simple firebase auth token generator",
+  "main": "app.js",
+  "dependencies": {
+    "googleapis": "^61.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fanky10/firebase-auth-token.git"
+  },
+  "keywords": [
+    "firebase",
+    "access_token",
+    "auth",
+    "googleapis"
+  ],
+  "author": "Ewen Mackenzie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fanky10/firebase-auth-token/issues"
+  },
+  "homepage": "https://github.com/fanky10/firebase-auth-token#readme"
+}
